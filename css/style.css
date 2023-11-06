@@ -1,0 +1,16 @@
+.box {
+    margin: 0 auto;
+    max-width: 600px;
+    width: 100%;
+}
+.box button {
+    display: block;
+    background-color: rgb(38, 0, 255);
+    color: #fff;
+    padding: 5px 20px;
+}
+textarea {
+    /* height: 177px; */
+    width: 200px;
+    height: 80px;
+}
